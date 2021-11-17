@@ -1,3 +1,5 @@
+#Scraping Dynamic Value
+
 from selenium import webdriver
 import time
 
